@@ -1,0 +1,5 @@
+../source/Microcontroladores_usingLCDwithBusyFlag.c:14:5:main	8	static
+../source/Microcontroladores_usingLCDwithBusyFlag.c:40:6:LCD_init	8	static
+../source/Microcontroladores_usingLCDwithBusyFlag.c:67:6:LCD_command	16	static
+../source/Microcontroladores_usingLCDwithBusyFlag.c:84:6:LCD_data	16	static
+../source/Microcontroladores_usingLCDwithBusyFlag.c:102:6:delayMs	24	static
